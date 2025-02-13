@@ -11,6 +11,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.Objects;
 import java.util.Random;
+// тестовый коммит для проверки
 
 public class GameField extends JPanel implements ActionListener {
     private final int SIZE = 512;
